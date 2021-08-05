@@ -14,7 +14,7 @@ In RestoreBackup change `backup_local=` to the path of your backup, you will nee
 
 If you need to backup server, remove `--exclude=/var/log` from backup.sh, take care and look what are been skipped, if you need it, remove too.
 
-*read more in https://help.ubuntu.com/community/BackupYourSystem/TAR*
+*Read more in https://help.ubuntu.com/community/BackupYourSystem/TAR*
 
 ## Authors
 
