@@ -1,6 +1,6 @@
 # Backup
 
-Backup your linux desktop or server (read recommendations to server) using this shell script.
+Backup your linux desktop or server (read recommendations for server) using this shell script.
 
 ## Getting Started
 
