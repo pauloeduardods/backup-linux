@@ -1,10 +1,10 @@
 #!/bin/bash
 
 backup_files="/"
-backup_saveTo="/media/paulo/PenDrive/backupLinux"
+backup_saveTo="/path/to/save/backup"
 
 day=$(date +%d-%m-%y)
-hostname=$(hostname-s)
+hostname=$(hostname -s)
 
 file="$hostname-$day.tar.gz"
 file_home="HOME-$file"
